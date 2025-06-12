@@ -1,0 +1,56 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(226, 219, 219);
+    margin: 0;
+}
+
+.feed-header {
+    background-color: white;
+    padding: 10px;
+}
+
+.feed-header h1 {
+    width: 550px;
+    margin: auto;
+    margin-top: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.feed-body {
+    margin: auto;
+    margin-top: 60px;
+    width: 550px;
+}
+
+.photo1 {
+    background-color: white;
+    margin-bottom: 70px;
+}
+
+
+.photo1-header {
+    width: 100%;
+    display: flex;
+}
+
+.photo1-header h3 {
+    padding-left: 15px;
+    width: 86%;
+}
+
+.photo1-header span {
+    text-align: right;
+    padding-top: 18px;
+    color: rgb(190, 186, 186);
+}
+
+.photo1 img {
+    width: 100%;
+}
+
+.photo1 p {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 13px;
+}
